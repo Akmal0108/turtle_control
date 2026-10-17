@@ -54,4 +54,8 @@ Pastikan Ubuntu sudah terpasang ROS 2, Turtlesim, serta alat yang diperlukan unt
 
 ## Tujuan Proyek
 
-Proyek ini merupakan bagian dari pembelajaran ROS 2 menggunakan C++. Melalui simulasi Turtlesim, proyek ini membantu memahami komunikasi antar-node, penggunaan topic dan service, serta pengendalian gerakan robot.
+Proyek ini merupakan bagian dari penugasan modul 2. Melalui simulasi Turtlesim, proyek ini membantu memahami komunikasi antar-node, penggunaan topic dan service, serta pengendalian gerakan robot.
+
+## Link Video Penjelasan
+
+Link: *Menyusul
