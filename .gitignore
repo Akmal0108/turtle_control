@@ -1,0 +1,18 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# Build artifacts accidentally located in src
+/src/build/
+/src/install/
+/src/log/
+/src/.git/
