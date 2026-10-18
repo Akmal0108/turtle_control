@@ -58,4 +58,4 @@ Proyek ini merupakan bagian dari penugasan modul 2. Melalui simulasi Turtlesim, 
 
 ## Link Video Penjelasan
 
-Link: *Menyusul
+Link: https://youtu.be/9zccgU-BSCg?si=WSbDNBkQEKqHOyTc
